@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ADSPersist": {
+      "commandName": "Project",
+      "commandLineArgs": "read local 851"
+    }
+  }
+}
